@@ -1,0 +1,21 @@
+{
+    "user_not_found": "User is not found",
+    "not_found": "{data} is not found",
+    "unauthorized_access": "Unauthorized Access",
+    "access_denied": "Access Denied",
+    "token_expired": "Token Expired",
+    "something_wrong": "Oops, something went wrong. Please try again later.",
+    "not_verify": "Email is still not verified",
+    "invalid_credentials": "Invalid Credentials",
+    
+    "E_ROW_NOT_FOUND": "The requested data was not found",
+    "E_MISSING_DATABASE_ROW": "Requested record does not exist",
+    "E_UNIQUE_VIOLATION": "Unique constraint violation. The record with the given value already exists",
+    "E_ROUTE_NOT_FOUND": "Route is not found",
+    "E_INVALID_AUTH_UID": "Invalid authentication credentials",
+    "E_INVALID_RELATION": "Invalid relation",
+    "E_VALIDATION_FAILURE": "Validation failed",
+    "E_UNAUTHORIZED_ACCESS": "Unauthorized access",
+    "E_CANNOT_FIND_ROUTE": "Route is not found"
+
+}

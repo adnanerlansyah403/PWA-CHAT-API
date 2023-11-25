@@ -1,0 +1,18 @@
+{
+    "user_not_found": "User tidak di temukan",
+    "not_found": "{data} tidak di temukan",
+    "unauthorized_access": "Access tidak sesuai",
+    "access_denied": "Access di tolak",
+    "token_expired": "Token Expired",
+    "something_wrong": "Oops, sepertinya terjadi suatu kesalahan. Tolong coba lagi lain waktu.",
+    "not_verify": "Email masih belum terverfikasi",
+
+    "E_ROW_NOT_FOUND": "Permintaan data tidak dapat di temukan",
+    "E_MISSING_DATABASE_ROW": "Permintaan data tidak di temukan",
+    "E_UNIQUE_VIOLATION": "Pelanggaran batasan unik. Data dengan nilai yang diberikan sudah ada",
+    "E_ROUTE_NOT_FOUND": "Rute tidak di temukan",
+    "E_INVALID_AUTH_UID": "Kredensial autentikasi tidak valid",
+    "E_INVALID_RELATION": "Relasi tidak valid",
+    "E_VALIDATION_FAILURE": "Validasi gagal",
+    "E_UNAUTHORIZED_ACCESS": "Autorisasi tidak valid"
+}
